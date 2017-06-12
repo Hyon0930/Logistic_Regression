@@ -1,6 +1,6 @@
 # Logistic_Regression
 
-Scripted Logistic Regression in Octave. To run the script, what you need to prepare is training set and test set with examples in rows and its features in columns.
+Scripted Logistic Regression in Octave. To run the script, what you need to prepare is training set and test set with examples in rows and its features in columns. Main file is LogisticRegression.m
 
 flow:
 Data input 
